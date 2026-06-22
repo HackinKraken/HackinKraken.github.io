@@ -4,7 +4,7 @@ url: "https://hackinkraken.com"
 baseurl: ""
 
 title: HackinKraken
-description: Security research, CVE write-ups, and pentesting notes by Steven Amador
+description: Security research, CVE write-ups, and blogs by Steven Amador
 site-image: /assets/images/meta.jpg
 site-keywords: security research, CVE, penetration testing, bug bounty, vulnerability disclosure
 favicon-url:
