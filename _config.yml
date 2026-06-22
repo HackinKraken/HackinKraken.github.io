@@ -26,7 +26,7 @@ google-analytics:
 disqus-shortname:
 
 author-name: Steven Amador
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/pfp.jpg
 author-about: Web application security tester and security researcher. Alias HackinKraken — CVE-2022-2650, CVE-2026-39338.
 author-url: https://github.com/HackinKraken
 
