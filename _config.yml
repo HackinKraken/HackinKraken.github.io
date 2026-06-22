@@ -7,7 +7,7 @@ title: HackinKraken
 description: Security research, CVE write-ups, and blogs by Steven Amador
 site-image: /assets/images/meta.jpg
 site-keywords: security research, CVE, penetration testing, bug bounty, vulnerability disclosure
-favicon-url:
+favicon-url: /assets/images/icon.jpg
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 email:
