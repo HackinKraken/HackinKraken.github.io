@@ -27,7 +27,7 @@ disqus-shortname:
 
 author-name: Steven Amador
 author-image: /assets/images/pfp.jpg
-author-about: Cloud Security Engineer by day, Web Application Security Tester by day and night.
+author-about: Cloud Security Engineer by day, Web Application Security Tester by day and night. You can find my published CVEs and full write-ups on <a href=\"https://github.com/HackinKraken/Security-Research-and-CVE\" target=\"_blank\">my GitHub</a> — CVE-2022-2650, CVE-2026-39338."
 author-url: https://github.com/HackinKraken
 
 sass:
