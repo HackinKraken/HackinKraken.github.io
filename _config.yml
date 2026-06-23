@@ -27,7 +27,7 @@ disqus-shortname:
 
 author-name: Steven Amador
 author-image: /assets/images/pfp.jpg
-author-about: 'Senior Cloud Security Engineer by day, Web Application Security Tester by day and night!<br><br>Read my blog posts where I share thoughts, CVE write ups, and some creative writing (may or not be tech related, I'm not a very a good writer!). I am listing my CVEs on <a href="https://github.com/HackinKraken/Security-Research-and-CVE" target="_blank" style="padding: 0; margin: 0; display: inline;">my GitHub</a> for better SEO — CVE-2022-2650, CVE-2026-39338. It also serves as a quick single pane for reference that is better than clicking around different blog posts.'
+author-about: 'Senior Cloud Security Engineer by day, Web Application Security Tester by day and night!<br><br>Read my blog posts where I share thoughts, CVE write ups, and some creative writing (may or not be tech related, I''m not a very a good writer!). I am listing my CVEs on <a href="https://github.com/HackinKraken/Security-Research-and-CVE" target="_blank" style="padding: 0; margin: 0; display: inline;">my GitHub</a> for better SEO — CVE-2022-2650, CVE-2026-39338. It also serves as a quick single pane for reference that is better than clicking around different blog posts.'
 author-url: https://github.com/HackinKraken
 
 sass:
